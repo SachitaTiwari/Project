@@ -9,6 +9,9 @@ By combining mindfulness with gamification, this project helps users maintain a 
 ## Contract Address
 
 0xd9145CCE52D386f254917e481eB44e9943F39138
+![Uploading Screenshot 2024-12-21 142755.png…]()
+
+
 
 ## Key Features
 
